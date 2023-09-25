@@ -1,1 +1,1 @@
-“This is the readme file for the tutorial repository. :p”
+“This is the readme file for the tutorial repository.”
